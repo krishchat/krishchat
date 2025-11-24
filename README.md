@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishchat
 - 👀 I’m interested in Python, Data Science and Machince Learning.
-- 🌱 I’m currently pursuing PG Program in AI and ML from University of Texas Austin.
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 🌱 I’ve completed PG Program in AI and ML from University of Texas Austin.
+- 💞️ I’m looking to collaborate on Data Science and AI/ML projects
 - 📫 How to reach me krish.chat0@gmail.com
 
 <!---
